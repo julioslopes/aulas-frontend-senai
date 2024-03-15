@@ -1,0 +1,13 @@
+footer {
+    background-color: var(--cor-fundo-padrao);
+    grid-area: rodape;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .texto-copyright {
+    color: #fff;
+  }
+  
